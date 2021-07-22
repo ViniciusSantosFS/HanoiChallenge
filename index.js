@@ -3,9 +3,7 @@ const pino2 = [];
 const pino3 = [];
 let jogadas = 0;
 let total = pino1.length;
-// criar um loop e enquanto o pino 3 for menor que 3 continuar rodando
-// se o valor do pino 2 for maior que o valor final do pino 1, ele aceita
-// se não, o pino 3 recebe o valor
+
 while (pino3.length < total) {
   if (
     pino1[0] !== undefined &&
