@@ -1,1 +1,1 @@
-Desafio torre de hanoi do repositório [https://github.com/nerdzao/nerdojo](nerdojo)
+Desafio torre de hanoi do repositório [nerdojo](https://github.com/nerdzao/nerdojo)
